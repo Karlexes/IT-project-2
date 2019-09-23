@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(19, 18, 18);
+    background-image: url(worldd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.topnav{
+    background-color: rgb(153, 7, 31);
+    padding: 10px;
+    overflow: hidden;
+}
+.topnav a{
+    font-family: 'Chilanka', cursive;
+    font-size: 20px;
+    color:white;text-decoration: none;
+    text-align: center;
+    margin-left: 20px;
+    
+    }
+.topnav a:hover {
+    color: #f4fcff;
+    background-color: #a62b2b;
+    padding: 10px 10px;
+    border-radius: 5px; 
+}
